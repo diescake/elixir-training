@@ -9,7 +9,7 @@ $ asdf install
 ## Running
 
 ```sh
-$ iex ./hoge.ex
+$ iex ./file.ex
 ```
 
 ## Note
